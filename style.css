@@ -1,0 +1,29 @@
+body{
+    background-size: 400px, 600px;
+    background-color: white;
+    background-image: url("https://img.freepik.com/vetores-premium/icone-da-estrela-de-david-o-simbolo-de-seis-pontas-da-bandeira-nacional-do-estado-de-israel_855620-277.jpg");
+    background-repeat: no-repeat;
+    background-position: 380px, -100px;
+    max-width: 1200px;
+    max-height: 550px;
+    
+}
+
+.background1{
+    color: #00A8FF;
+    background-color: #00A8FF;
+    margin-top: -100px;
+    margin-left: -10px;
+    margin-right: -10px;
+    font-size: 60px;
+}
+.background2{
+    color: #00A8FF;
+    background-color: #00A8FF;
+    margin-top: 300px;
+    margin-left: -10px;
+    margin-right: -10px;
+    font-size: 60spx;
+    border-left: 100px;
+    border-bottom: 300px;
+}
